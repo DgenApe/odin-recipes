@@ -1,0 +1,1 @@
+This is the first project in The Odin Project's Foundation course. At this point, I have spent about 11.5 hours on the entirety of TOP, and about 4.5 hours of that in learning HTML alone. I definitely feel prepared for this project. Preparation level: 9/10
