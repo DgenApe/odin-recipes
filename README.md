@@ -2,5 +2,4 @@ This is the first project in The Odin Project's Foundation course. At this point
 
 CSS update: Adding the CSS to the project was not super difficult, I felt well prepared withthe exercises given by TOP. What is stumping me is how to push changes to git hub. I have followed mynotes but cannot seem to get my repository updated
 
-git push update
-update
+Site is live!: https://dgenape.github.io/odin-recipes/
